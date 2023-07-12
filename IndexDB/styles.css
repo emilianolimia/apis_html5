@@ -1,0 +1,29 @@
+#contenedor{
+    width: 50%;
+    margin: auto;
+    padding-top: 50px;
+}
+
+#zona_form{
+    float: left;
+    padding: 20px;
+    border: 1px solid #039;
+    margin-left: 100px;
+}
+
+#zona_datos{
+    float: right;
+    width: 250px;
+    margin-left: 20px;
+    padding: 20px;
+    border: 1px solid #F00;
+}
+
+#clave, #valor{
+    width: 150px;
+}
+
+#zona_datos div{
+    padding: 20px;
+    border-bottom: 3px solid #00F;
+}
