@@ -1,1 +1,1 @@
-# pildoras_informaticas pruebas de distintas APIs
+# Pruebas de distintas APIs
