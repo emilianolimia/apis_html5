@@ -6,7 +6,6 @@ function iniciar() {
 
     let archivos = document.getElementById("archivos");
     archivos.addEventListener("change", procesar_archivos, false);
-
 }
 
 function procesar_archivos(e) {
