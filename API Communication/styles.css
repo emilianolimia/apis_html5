@@ -1,5 +1,5 @@
 #contenedor{
-    width: 60%;
+    width: 40%;
     margin: auto;
     padding-top: 50px;
 }
@@ -12,7 +12,15 @@
 
 #zona_datos{
     float: right;
-    width: 250px;
+    width: 300px;
+    margin-left: 20px;
+    padding: 20px;
+    border: 1px dashed #F00;
+}
+
+#zona_progreso{
+    float: right;
+    width: 300px;
     margin-left: 20px;
     padding: 20px;
     border: 1px dashed #F00;
