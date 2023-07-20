@@ -1,0 +1,19 @@
+#contenedor{
+    width: 60%;
+    margin: auto;
+    padding-top: 50px;
+}
+
+#zona_form{
+    float: left;
+    padding: 20px;
+    border: 1px solid #039;
+}
+
+#zona_datos{
+    float: right;
+    width: 250px;
+    margin-left: 20px;
+    padding: 20px;
+    border: 1px dashed #F00;
+}
